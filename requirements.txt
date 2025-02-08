@@ -1,0 +1,20 @@
+Flask
+flask-cors
+Flask-WTF
+Werkzeug
+tensorflow  # Or torch if using PyTorch
+onnxruntime
+numpy
+scikit-learn
+pillow
+opencv-python
+imageio
+pydicom
+pandas
+matplotlib
+seaborn
+plotly
+gunicorn
+requests
+mysql-connector-python  
+flask-sqlalchemy  
